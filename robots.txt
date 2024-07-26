@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hertying.github.io/sitemap.html.gz
+Sitemap: https://hertying.github.io/app/sitemap.html.gz
+Sitemap: https://hertying.github.io/assets/sitemap.html.gz
+Sitemap: https://hertying.github.io/css/sitemap.html.gz
+Sitemap: https://hertying.github.io/includes/sitemap.html.gz
+Sitemap: https://hertying.github.io/item/sitemap.html.gz
+Sitemap: https://hertying.github.io/src/sitemap.html.gz
